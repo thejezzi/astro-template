@@ -1,0 +1,13 @@
+# Ignore artifacts:
+build
+coverage
+.next
+.vscode
+.node_modules
+public
+.env
+*.md
+pnpm-lock.yaml
+.prettierrc
+.eslintrc.json
+tsconfig.json
